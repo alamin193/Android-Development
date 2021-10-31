@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTextVeiwDemo</string>
+    <string name="name">
+        Md. Al Amin Miah
+     </string>
+    <string name="age">
+        I am 22 years old
+    </string>
+    <string name="txt">   A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs.One of the most important of these is a topic sentence.
+
+    </string>
+</resources>
